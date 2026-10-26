@@ -1,0 +1,121 @@
+﻿id_empleado,nombre,genero,id_departamento,puesto,ciudad,fecha_ingreso,fecha_baja,estatus
+1,Jorge Gómez Hernández,M,1,Ejecutivo de Ventas,Tlaxcala,2022-02-06,,Activo
+2,Carlos Sánchez López,M,3,Analista de Sistemas,Querétaro,2024-05-05,2025-12-03,Baja
+3,Luis Sánchez Hernández,M,3,Analista de Sistemas,Tlaxcala,2022-09-13,2023-09-09,Baja
+4,María Rodríguez Rivera,F,1,Coordinador Comercial,Puebla,2024-04-30,2025-10-23,Baja
+5,Héctor Cruz Rivera,M,2,Gerente de Operaciones,Ciudad de México,2025-11-03,,Activo
+6,Andrés Cruz Torres,F,3,Analista de Sistemas,Monterrey,2023-09-28,,Activo
+7,Luis López Ortiz,M,3,Líder de Tecnología,Monterrey,2021-07-09,,Activo
+8,Carlos López Ramírez,M,3,Desarrollador,Monterrey,2018-09-06,,Activo
+9,Diego Gómez Rivera,M,1,Ejecutivo de Ventas,Puebla,2019-11-20,,Activo
+10,Mariana Sánchez Gómez,F,2,Gerente de Operaciones,Tlaxcala,2018-11-27,2021-06-26,Baja
+11,Javier Ramírez Díaz,M,6,Supervisor de Atención,Guadalajara,2022-04-08,,Activo
+12,Ana Morales Pérez,F,2,Auxiliar de Operaciones,Tlaxcala,2022-09-13,,Activo
+13,Mariana Reyes Hernández,M,3,Líder de Tecnología,Puebla,2025-08-19,,Activo
+14,Paola Gómez Hernández,F,1,Coordinador Comercial,Tlaxcala,2022-12-10,2025-03-05,Baja
+15,Lucía Martínez Rivera,F,3,Analista de Sistemas,Guadalajara,2020-05-01,,Activo
+16,Héctor Martínez Martínez,M,6,Coordinador de Atención,Monterrey,2023-03-24,,Activo
+17,Héctor Pérez Reyes,M,1,Coordinador Comercial,Querétaro,2023-12-04,,Activo
+18,Fernando López Ramírez,M,3,Líder de Tecnología,Tlaxcala,2021-12-27,,Activo
+19,Fernando Sánchez Rodríguez,M,6,Coordinador de Atención,Guadalajara,2026-04-19,,Activo
+20,Ana Ramírez Morales,F,2,Supervisor de Operaciones,Querétaro,2021-11-11,,Activo
+21,Carlos Sánchez Martínez,F,2,Auxiliar de Operaciones,Tlaxcala,2020-04-17,,Activo
+22,Fernando López Martínez,M,6,Coordinador de Atención,Puebla,2026-05-31,,Activo
+23,Mariana Gómez Cruz,F,2,Gerente de Operaciones,Ciudad de México,2026-02-16,,Activo
+24,Fernando González Morales,M,4,Auxiliar Contable,Ciudad de México,2024-02-26,,Activo
+25,Lucía González Díaz,F,6,Agente de Atención,Monterrey,2020-05-14,2021-11-20,Baja
+26,Diego Ortiz Díaz,M,6,Agente de Atención,Puebla,2026-04-19,,Activo
+27,Javier González Ortiz,M,1,Ejecutivo de Ventas,Tlaxcala,2022-12-08,,Activo
+28,Sofía González Morales,F,3,Analista de Sistemas,Tlaxcala,2018-09-10,,Activo
+29,Lucía Hernández Sánchez,F,1,Ejecutivo de Ventas,Tlaxcala,2019-02-05,,Activo
+30,Paola Flores Reyes,F,3,Analista de Sistemas,Tlaxcala,2021-02-09,,Activo
+31,Mariana Reyes Ramírez,F,6,Coordinador de Atención,Guadalajara,2020-04-09,,Activo
+32,Carlos Sánchez Díaz,M,1,Gerente de Ventas,Guadalajara,2019-05-17,,Activo
+33,Jorge Ramírez González,M,6,Agente de Atención,Puebla,2019-01-21,,Activo
+34,Sofía Díaz Reyes,M,2,Auxiliar de Operaciones,Querétaro,2021-12-31,,Activo
+35,Héctor García Gómez,M,2,Supervisor de Operaciones,Ciudad de México,2023-09-30,,Activo
+36,María Ramírez Ramírez,F,1,Coordinador Comercial,Puebla,2021-01-12,,Activo
+37,Ricardo González Ortiz,M,6,Agente de Atención,Monterrey,2025-11-08,,Activo
+38,Daniela López Ramírez,F,6,Supervisor de Atención,Ciudad de México,2020-12-03,2022-07-01,Baja
+39,Luis Flores Ortiz,M,2,Gerente de Operaciones,Querétaro,2024-12-21,,Activo
+40,Fernanda Hernández Pérez,F,1,Ejecutivo de Ventas,Guadalajara,2021-06-03,,Activo
+41,Fernanda Rivera García,F,6,Agente de Atención,Tlaxcala,2018-03-17,,Activo
+42,Paola Martínez Díaz,F,4,Auxiliar Contable,Monterrey,2022-05-30,,Activo
+43,Miguel González Gómez,M,6,Coordinador de Atención,Querétaro,2019-06-16,2023-04-16,Baja
+44,María Gómez Reyes,F,4,Auxiliar Contable,Ciudad de México,2020-09-19,,Activo
+45,Luis Ramírez Rivera,M,6,Coordinador de Atención,Ciudad de México,2024-02-19,,Activo
+46,Camila Pérez García,F,2,Auxiliar de Operaciones,Guadalajara,2021-02-16,,Activo
+47,María Ramírez López,F,1,Ejecutivo de Ventas,Querétaro,2022-06-02,2024-06-14,Baja
+48,Karla Gómez Flores,F,5,Auxiliar de RH,Querétaro,2021-03-09,,Activo
+49,Raúl Reyes González,M,6,Coordinador de Atención,Ciudad de México,2024-05-17,,Activo
+50,María García Hernández,F,1,Ejecutivo de Ventas,Puebla,2019-03-06,,Activo
+51,Paola Ramírez García,F,3,Analista de Sistemas,Ciudad de México,2023-08-23,,Activo
+52,Carlos Ramírez Sánchez,M,5,Auxiliar de RH,Puebla,2026-04-19,,Activo
+53,Paola Torres Hernández,F,3,Desarrollador,Monterrey,2018-11-14,,Activo
+54,Pablo González García,M,3,Analista de Sistemas,Querétaro,2025-07-15,,Activo
+55,Héctor Cruz Cruz,M,5,Gerente de RH,Puebla,2024-02-28,2024-12-19,Baja
+56,Lucía Cruz Ramírez,F,2,Gerente de Operaciones,Guadalajara,2020-05-13,2021-03-13,Baja
+57,Jorge Reyes Ramírez,M,6,Coordinador de Atención,Puebla,2020-08-05,,Activo
+58,Fernando Cruz Gómez,M,2,Auxiliar de Operaciones,Ciudad de México,2021-11-09,,Activo
+59,Carlos Rodríguez García,M,6,Agente de Atención,Tlaxcala,2022-03-05,2024-09-09,Baja
+60,Diego Hernández Ramírez,M,1,Coordinador Comercial,Guadalajara,2021-03-15,,Activo
+61,Javier Flores Rodríguez,M,5,Gerente de RH,Querétaro,2022-10-19,,Activo
+62,Mariana López Hernández,F,6,Agente de Atención,Querétaro,2024-11-23,,Activo
+63,Sofía Morales Díaz,F,2,Auxiliar de Operaciones,Querétaro,2026-04-16,,Activo
+64,Fernanda Morales Ortiz,F,4,Auxiliar Contable,Tlaxcala,2025-03-19,2026-09-15,Baja
+65,Andrés Cruz Díaz,M,1,Ejecutivo de Ventas,Ciudad de México,2019-01-07,2022-06-18,Baja
+66,Ana Díaz Gómez,F,2,Auxiliar de Operaciones,Ciudad de México,2022-03-24,,Activo
+67,Karla Reyes Reyes,F,4,Gerente de Finanzas,Puebla,2020-06-03,2022-02-21,Baja
+68,Diego García González,M,1,Coordinador Comercial,Puebla,2023-04-23,,Activo
+69,Héctor Sánchez Martínez,M,2,Auxiliar de Operaciones,Puebla,2025-08-25,,Activo
+70,Ana González Sánchez,F,3,Analista de Sistemas,Guadalajara,2026-01-07,,Activo
+71,Raúl Martínez Martínez,M,1,Ejecutivo de Ventas,Sin dato,2024-07-15,2026-04-30,Baja
+72,Lucía Torres Cruz,F,2,Auxiliar de Operaciones,Guadalajara,2020-09-19,,Activo
+73,Luis García Rodríguez,M,3,Desarrollador,Querétaro,2022-09-17,2024-04-25,Baja
+74,Paola Hernández Flores,F,4,Auxiliar Contable,Querétaro,2022-06-12,2024-05-30,Baja
+75,Fernanda Rodríguez Sánchez,F,3,Analista de Sistemas,Puebla,2021-04-23,2025-02-18,Baja
+76,Ricardo Hernández González,M,6,Agente de Atención,Guadalajara,2018-04-07,,Activo
+77,Daniela Cruz Flores,F,5,Gerente de RH,Guadalajara,2019-11-10,,Activo
+78,Luis Torres Gómez,M,6,Coordinador de Atención,Ciudad de México,2022-12-18,2023-04-22,Baja
+79,Carlos Ortiz Rodríguez,M,2,Gerente de Operaciones,Puebla,2021-06-18,,Activo
+80,Camila Ortiz Cruz,F,1,Ejecutivo de Ventas,Guadalajara,2023-04-28,2025-12-14,Baja
+81,Luis Gómez Hernández,M,3,Líder de Tecnología,Querétaro,2018-09-11,,Activo
+82,Andrés Ramírez Flores,M,6,Supervisor de Atención,Querétaro,2020-12-09,,Activo
+83,Luis López García,M,6,Agente de Atención,Puebla,2026-01-09,,Activo
+84,Héctor González Morales,M,1,Coordinador Comercial,Querétaro,2026-04-13,,Activo
+85,Camila Flores Cruz,F,2,Gerente de Operaciones,Puebla,2018-11-20,,Activo
+86,Paola Ortiz Ortiz,F,2,Gerente de Operaciones,Monterrey,2019-03-07,,Activo
+87,Héctor Cruz Pérez,M,2,Auxiliar de Operaciones,Guadalajara,2024-12-15,,Activo
+88,Fernanda Torres Ramírez,F,3,Analista de Sistemas,Puebla,2026-04-12,,Activo
+89,Sofía Torres Rodríguez,F,2,Auxiliar de Operaciones,Guadalajara,2020-10-04,,Activo
+90,María García Morales,F,6,Agente de Atención,Ciudad de México,2023-01-11,,Activo
+91,Valeria Rodríguez López,F,2,Gerente de Operaciones,Sin dato,2023-01-14,,Activo
+92,Ana Rivera Flores,F,1,Ejecutivo de Ventas,Guadalajara,2020-11-10,2024-11-03,Baja
+93,Fernando Rivera Pérez,M,4,Auxiliar Contable,Tlaxcala,2018-05-09,,Activo
+94,Fernando Ortiz González,M,4,Auxiliar Contable,Monterrey,2019-11-02,,Activo
+95,Ricardo Hernández Torres,M,5,Gerente de RH,Monterrey,2022-08-24,,Activo
+96,Ana Díaz Pérez,F,2,Gerente de Operaciones,Monterrey,2022-07-22,,Activo
+97,Ana Hernández Ortiz,F,1,Coordinador Comercial,Monterrey,2022-06-13,2026-04-07,Baja
+98,Camila Torres Pérez,F,3,Líder de Tecnología,Guadalajara,2019-03-22,,Activo
+99,Andrés Hernández Gómez,M,1,Coordinador Comercial,Guadalajara,2025-09-19,,Activo
+100,Gabriela Gómez Rodríguez,F,6,Agente de Atención,Guadalajara,2020-06-12,2023-09-05,Baja
+101,Valeria Rodríguez Hernández,F,6,Coordinador de Atención,Ciudad de México,2025-07-16,,Activo
+102,Fernando Díaz Torres,M,3,Analista de Sistemas,Tlaxcala,2025-05-22,,Activo
+103,Gabriela Morales Cruz,F,2,Gerente de Operaciones,Puebla,2023-02-21,,Activo
+104,Ricardo Rivera López,M,6,Agente de Atención,Guadalajara,2025-05-15,,Activo
+105,Raúl Reyes López,M,1,Ejecutivo de Ventas,Guadalajara,2022-03-28,,Activo
+106,Valeria González Morales,F,2,Gerente de Operaciones,Querétaro,2019-11-08,,Activo
+107,Jorge Flores Ramírez,M,6,Agente de Atención,Puebla,2020-11-07,,Activo
+108,Camila Rivera Hernández,F,1,Ejecutivo de Ventas,Querétaro,2025-02-20,,Activo
+109,Fernanda Martínez Reyes,F,1,Coordinador Comercial,Tlaxcala,2023-01-30,,Activo
+110,Fernanda Ortiz Gómez,F,5,Auxiliar de RH,Tlaxcala,2022-03-20,,Activo
+111,Paola Sánchez Pérez,F,3,Líder de Tecnología,Monterrey,2021-04-28,,Activo
+112,Raúl García Hernández,M,2,Auxiliar de Operaciones,Tlaxcala,2025-01-06,,Activo
+113,Paola Sánchez Hernández,F,1,Ejecutivo de Ventas,Tlaxcala,2021-12-24,,Activo
+114,Pablo Torres González,M,1,Gerente de Ventas,Guadalajara,2023-04-30,2023-09-25,Baja
+115,María González Ramírez,F,2,Auxiliar de Operaciones,Monterrey,2018-02-17,2021-08-11,Baja
+116,Pablo Reyes Morales,M,2,Gerente de Operaciones,Puebla,2018-06-30,2018-12-18,Baja
+117,María García Ortiz,F,4,Auxiliar Contable,Querétaro,2022-08-20,2026-05-16,Baja
+118,Pablo Pérez Reyes,M,2,Auxiliar de Operaciones,Querétaro,2018-07-18,,Activo
+119,Daniela Díaz Cruz,F,1,Gerente de Ventas,Ciudad de México,2019-12-20,,Activo
+120,Camila Ramírez Hernández,F,2,Auxiliar de Operaciones,Tlaxcala,2022-11-22,,Activo

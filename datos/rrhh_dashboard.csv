@@ -1,0 +1,121 @@
+﻿id_empleado,nombre,genero,departamento,puesto,ciudad,fecha_ingreso,fecha_baja,estatus,anio_ingreso,salario_mensual,antiguedad_anios
+1,Jorge Gómez Hernández,M,Ventas,Ejecutivo de Ventas,Tlaxcala,06/02/2022,,Activo,2022,17100,4.6
+2,Carlos Sánchez López,M,Tecnología,Analista de Sistemas,Querétaro,05/05/2024,03/12/2025,Baja,2024,33600,1.6
+3,Luis Sánchez Hernández,M,Tecnología,Analista de Sistemas,Tlaxcala,13/09/2022,09/09/2023,Baja,2022,29100,1
+4,María Rodríguez Rivera,F,Ventas,Coordinador Comercial,Puebla,30/04/2024,23/10/2025,Baja,2024,25600,1.5
+5,Héctor Cruz Rivera,M,Operaciones,Gerente de Operaciones,Ciudad de México,03/11/2025,,Activo,2025,47400,0.9
+6,Andrés Cruz Torres,F,Tecnología,Analista de Sistemas,Monterrey,28/09/2023,,Activo,2023,26500,3
+7,Luis López Ortiz,M,Tecnología,Líder de Tecnología,Monterrey,09/07/2021,,Activo,2021,,5.2
+8,Carlos López Ramírez,M,Tecnología,Desarrollador,Monterrey,06/09/2018,,Activo,2018,38600,8.1
+9,Diego Gómez Rivera,M,Ventas,Ejecutivo de Ventas,Puebla,20/11/2019,,Activo,2019,15700,6.9
+10,Mariana Sánchez Gómez,F,Operaciones,Gerente de Operaciones,Tlaxcala,27/11/2018,26/06/2021,Baja,2018,42600,2.6
+11,Javier Ramírez Díaz,M,Atención al Cliente,Supervisor de Atención,Guadalajara,08/04/2022,,Activo,2022,20200,4.5
+12,Ana Morales Pérez,F,Operaciones,Auxiliar de Operaciones,Tlaxcala,13/09/2022,,Activo,2022,15600,4
+13,Mariana Reyes Hernández,M,Tecnología,Líder de Tecnología,Puebla,19/08/2025,,Activo,2025,51500,1.1
+14,Paola Gómez Hernández,F,Ventas,Coordinador Comercial,Tlaxcala,10/12/2022,05/03/2025,Baja,2022,22000,2.2
+15,Lucía Martínez Rivera,F,Tecnología,Analista de Sistemas,Guadalajara,01/05/2020,,Activo,2020,28100,6.4
+16,Héctor Martínez Martínez,M,Atención al Cliente,Coordinador de Atención,Monterrey,24/03/2023,,Activo,2023,24500,3.5
+17,Héctor Pérez Reyes,M,Ventas,Coordinador Comercial,Querétaro,04/12/2023,,Activo,2023,24400,2.8
+18,Fernando López Ramírez,M,Tecnología,Líder de Tecnología,Tlaxcala,27/12/2021,,Activo,2021,53900,4.8
+19,Fernando Sánchez Rodríguez,M,Atención al Cliente,Coordinador de Atención,Guadalajara,19/04/2026,,Activo,2026,26200,0.5
+20,Ana Ramírez Morales,F,Operaciones,Supervisor de Operaciones,Querétaro,11/11/2021,,Activo,2021,24900,4.9
+21,Carlos Sánchez Martínez,F,Operaciones,Auxiliar de Operaciones,Tlaxcala,17/04/2020,,Activo,2020,11000,6.5
+22,Fernando López Martínez,M,Atención al Cliente,Coordinador de Atención,Puebla,31/05/2026,,Activo,2026,28500,0.3
+23,Mariana Gómez Cruz,F,Operaciones,Gerente de Operaciones,Ciudad de México,16/02/2026,,Activo,2026,40500,0.6
+24,Fernando González Morales,M,Finanzas,Auxiliar Contable,Ciudad de México,26/02/2024,,Activo,2024,12100,2.6
+25,Lucía González Díaz,F,Atención al Cliente,Agente de Atención,Monterrey,14/05/2020,20/11/2021,Baja,2020,13100,1.5
+26,Diego Ortiz Díaz,M,Atención al Cliente,Agente de Atención,Puebla,19/04/2026,,Activo,2026,12700,0.5
+27,Javier González Ortiz,M,Ventas,Ejecutivo de Ventas,Tlaxcala,08/12/2022,,Activo,2022,14000,3.8
+28,Sofía González Morales,F,Tecnología,Analista de Sistemas,Tlaxcala,10/09/2018,,Activo,2018,32700,8.1
+29,Lucía Hernández Sánchez,F,Ventas,Ejecutivo de Ventas,Tlaxcala,05/02/2019,,Activo,2019,14200,7.7
+30,Paola Flores Reyes,F,Tecnología,Analista de Sistemas,Tlaxcala,09/02/2021,,Activo,2021,31800,5.6
+31,Mariana Reyes Ramírez,F,Atención al Cliente,Coordinador de Atención,Guadalajara,09/04/2020,,Activo,2020,27400,6.5
+32,Carlos Sánchez Díaz,M,Ventas,Gerente de Ventas,Guadalajara,17/05/2019,,Activo,2019,46700,7.4
+33,Jorge Ramírez González,M,Atención al Cliente,Agente de Atención,Puebla,21/01/2019,,Activo,2019,10700,7.7
+34,Sofía Díaz Reyes,M,Operaciones,Auxiliar de Operaciones,Querétaro,31/12/2021,,Activo,2021,15100,4.8
+35,Héctor García Gómez,M,Operaciones,Supervisor de Operaciones,Ciudad de México,30/09/2023,,Activo,2023,29500,3
+36,María Ramírez Ramírez,F,Ventas,Coordinador Comercial,Puebla,12/01/2021,,Activo,2021,27000,5.7
+37,Ricardo González Ortiz,M,Atención al Cliente,Agente de Atención,Monterrey,08/11/2025,,Activo,2025,10200,0.9
+38,Daniela López Ramírez,F,Atención al Cliente,Supervisor de Atención,Ciudad de México,03/12/2020,01/07/2022,Baja,2020,20200,1.6
+39,Luis Flores Ortiz,M,Operaciones,Gerente de Operaciones,Querétaro,21/12/2024,,Activo,2024,41900,1.8
+40,Fernanda Hernández Pérez,F,Ventas,Ejecutivo de Ventas,Guadalajara,03/06/2021,,Activo,2021,16400,5.3
+41,Fernanda Rivera García,F,Atención al Cliente,Agente de Atención,Tlaxcala,17/03/2018,,Activo,2018,10800,8.5
+42,Paola Martínez Díaz,F,Finanzas,Auxiliar Contable,Monterrey,30/05/2022,,Activo,2022,13800,4.3
+43,Miguel González Gómez,M,Atención al Cliente,Coordinador de Atención,Querétaro,16/06/2019,16/04/2023,Baja,2019,31500,3.8
+44,María Gómez Reyes,F,Finanzas,Auxiliar Contable,Ciudad de México,19/09/2020,,Activo,2020,17100,6
+45,Luis Ramírez Rivera,M,Atención al Cliente,Coordinador de Atención,Ciudad de México,19/02/2024,,Activo,2024,29900,2.6
+46,Camila Pérez García,F,Operaciones,Auxiliar de Operaciones,Guadalajara,16/02/2021,,Activo,2021,13000,5.6
+47,María Ramírez López,F,Ventas,Ejecutivo de Ventas,Querétaro,02/06/2022,14/06/2024,Baja,2022,17200,2
+48,Karla Gómez Flores,F,Recursos Humanos,Auxiliar de RH,Querétaro,09/03/2021,,Activo,2021,14300,5.6
+49,Raúl Reyes González,M,Atención al Cliente,Coordinador de Atención,Ciudad de México,17/05/2024,,Activo,2024,28800,2.4
+50,María García Hernández,F,Ventas,Ejecutivo de Ventas,Puebla,06/03/2019,,Activo,2019,20100,7.6
+51,Paola Ramírez García,F,Tecnología,Analista de Sistemas,Ciudad de México,23/08/2023,,Activo,2023,35200,3.1
+52,Carlos Ramírez Sánchez,M,Recursos Humanos,Auxiliar de RH,Puebla,19/04/2026,,Activo,2026,16000,0.5
+53,Paola Torres Hernández,F,Tecnología,Desarrollador,Monterrey,14/11/2018,,Activo,2018,32200,7.9
+54,Pablo González García,M,Tecnología,Analista de Sistemas,Querétaro,15/07/2025,,Activo,2025,32000,1.2
+55,Héctor Cruz Cruz,M,Recursos Humanos,Gerente de RH,Puebla,28/02/2024,19/12/2024,Baja,2024,38300,0.8
+56,Lucía Cruz Ramírez,F,Operaciones,Gerente de Operaciones,Guadalajara,13/05/2020,13/03/2021,Baja,2020,46600,0.8
+57,Jorge Reyes Ramírez,M,Atención al Cliente,Coordinador de Atención,Puebla,05/08/2020,,Activo,2020,27200,6.2
+58,Fernando Cruz Gómez,M,Operaciones,Auxiliar de Operaciones,Ciudad de México,09/11/2021,,Activo,2021,14800,4.9
+59,Carlos Rodríguez García,M,Atención al Cliente,Agente de Atención,Tlaxcala,05/03/2022,09/09/2024,Baja,2022,10300,2.5
+60,Diego Hernández Ramírez,M,Ventas,Coordinador Comercial,Guadalajara,15/03/2021,,Activo,2021,22000,5.5
+61,Javier Flores Rodríguez,M,Recursos Humanos,Gerente de RH,Querétaro,19/10/2022,,Activo,2022,44600,4
+62,Mariana López Hernández,F,Atención al Cliente,Agente de Atención,Querétaro,23/11/2024,,Activo,2024,14700,1.9
+63,Sofía Morales Díaz,F,Operaciones,Auxiliar de Operaciones,Querétaro,16/04/2026,,Activo,2026,13100,0.5
+64,Fernanda Morales Ortiz,F,Finanzas,Auxiliar Contable,Tlaxcala,19/03/2025,15/09/2026,Baja,2025,16100,1.5
+65,Andrés Cruz Díaz,M,Ventas,Ejecutivo de Ventas,Ciudad de México,07/01/2019,18/06/2022,Baja,2019,17900,3.4
+66,Ana Díaz Gómez,F,Operaciones,Auxiliar de Operaciones,Ciudad de México,24/03/2022,,Activo,2022,16300,4.5
+67,Karla Reyes Reyes,F,Finanzas,Gerente de Finanzas,Puebla,03/06/2020,21/02/2022,Baja,2020,48500,1.7
+68,Diego García González,M,Ventas,Coordinador Comercial,Puebla,23/04/2023,,Activo,2023,21600,3.4
+69,Héctor Sánchez Martínez,M,Operaciones,Auxiliar de Operaciones,Puebla,25/08/2025,,Activo,2025,11700,1.1
+70,Ana González Sánchez,F,Tecnología,Analista de Sistemas,Guadalajara,07/01/2026,,Activo,2026,28100,0.7
+71,Raúl Martínez Martínez,M,Ventas,Ejecutivo de Ventas,Sin dato,15/07/2024,30/04/2026,Baja,2024,20500,1.8
+72,Lucía Torres Cruz,F,Operaciones,Auxiliar de Operaciones,Guadalajara,19/09/2020,,Activo,2020,16700,6
+73,Luis García Rodríguez,M,Tecnología,Desarrollador,Querétaro,17/09/2022,25/04/2024,Baja,2022,35000,1.6
+74,Paola Hernández Flores,F,Finanzas,Auxiliar Contable,Querétaro,12/06/2022,30/05/2024,Baja,2022,17400,2
+75,Fernanda Rodríguez Sánchez,F,Tecnología,Analista de Sistemas,Puebla,23/04/2021,18/02/2025,Baja,2021,36700,3.8
+76,Ricardo Hernández González,M,Atención al Cliente,Agente de Atención,Guadalajara,07/04/2018,,Activo,2018,12600,8.5
+77,Daniela Cruz Flores,F,Recursos Humanos,Gerente de RH,Guadalajara,10/11/2019,,Activo,2019,48700,6.9
+78,Luis Torres Gómez,M,Atención al Cliente,Coordinador de Atención,Ciudad de México,18/12/2022,22/04/2023,Baja,2022,24300,0.3
+79,Carlos Ortiz Rodríguez,M,Operaciones,Gerente de Operaciones,Puebla,18/06/2021,,Activo,2021,42600,5.3
+80,Camila Ortiz Cruz,F,Ventas,Ejecutivo de Ventas,Guadalajara,28/04/2023,14/12/2025,Baja,2023,20600,2.6
+81,Luis Gómez Hernández,M,Tecnología,Líder de Tecnología,Querétaro,11/09/2018,,Activo,2018,46000,8.1
+82,Andrés Ramírez Flores,M,Atención al Cliente,Supervisor de Atención,Querétaro,09/12/2020,,Activo,2020,20600,5.8
+83,Luis López García,M,Atención al Cliente,Agente de Atención,Puebla,09/01/2026,,Activo,2026,13200,0.7
+84,Héctor González Morales,M,Ventas,Coordinador Comercial,Querétaro,13/04/2026,,Activo,2026,26300,0.5
+85,Camila Flores Cruz,F,Operaciones,Gerente de Operaciones,Puebla,20/11/2018,,Activo,2018,43800,7.9
+86,Paola Ortiz Ortiz,F,Operaciones,Gerente de Operaciones,Monterrey,07/03/2019,,Activo,2019,52100,7.6
+87,Héctor Cruz Pérez,M,Operaciones,Auxiliar de Operaciones,Guadalajara,15/12/2024,,Activo,2024,15400,1.8
+88,Fernanda Torres Ramírez,F,Tecnología,Analista de Sistemas,Puebla,12/04/2026,,Activo,2026,28100,0.5
+89,Sofía Torres Rodríguez,F,Operaciones,Auxiliar de Operaciones,Guadalajara,04/10/2020,,Activo,2020,11800,6
+90,María García Morales,F,Atención al Cliente,Agente de Atención,Ciudad de México,11/01/2023,,Activo,2023,14700,3.7
+91,Valeria Rodríguez López,F,Operaciones,Gerente de Operaciones,Sin dato,14/01/2023,,Activo,2023,41100,3.7
+92,Ana Rivera Flores,F,Ventas,Ejecutivo de Ventas,Guadalajara,10/11/2020,03/11/2024,Baja,2020,22400,4
+93,Fernando Rivera Pérez,M,Finanzas,Auxiliar Contable,Tlaxcala,09/05/2018,,Activo,2018,17300,8.4
+94,Fernando Ortiz González,M,Finanzas,Auxiliar Contable,Monterrey,02/11/2019,,Activo,2019,15400,6.9
+95,Ricardo Hernández Torres,M,Recursos Humanos,Gerente de RH,Monterrey,24/08/2022,,Activo,2022,52500,4.1
+96,Ana Díaz Pérez,F,Operaciones,Gerente de Operaciones,Monterrey,22/07/2022,,Activo,2022,45600,4.2
+97,Ana Hernández Ortiz,F,Ventas,Coordinador Comercial,Monterrey,13/06/2022,07/04/2026,Baja,2022,26000,3.8
+98,Camila Torres Pérez,F,Tecnología,Líder de Tecnología,Guadalajara,22/03/2019,,Activo,2019,53900,7.5
+99,Andrés Hernández Gómez,M,Ventas,Coordinador Comercial,Guadalajara,19/09/2025,,Activo,2025,25200,1
+100,Gabriela Gómez Rodríguez,F,Atención al Cliente,Agente de Atención,Guadalajara,12/06/2020,05/09/2023,Baja,2020,11600,3.2
+101,Valeria Rodríguez Hernández,F,Atención al Cliente,Coordinador de Atención,Ciudad de México,16/07/2025,,Activo,2025,25200,1.2
+102,Fernando Díaz Torres,M,Tecnología,Analista de Sistemas,Tlaxcala,22/05/2025,,Activo,2025,31200,1.4
+103,Gabriela Morales Cruz,F,Operaciones,Gerente de Operaciones,Puebla,21/02/2023,,Activo,2023,48200,3.6
+104,Ricardo Rivera López,M,Atención al Cliente,Agente de Atención,Guadalajara,15/05/2025,,Activo,2025,10300,1.4
+105,Raúl Reyes López,M,Ventas,Ejecutivo de Ventas,Guadalajara,28/03/2022,,Activo,2022,14200,4.5
+106,Valeria González Morales,F,Operaciones,Gerente de Operaciones,Querétaro,08/11/2019,,Activo,2019,44900,6.9
+107,Jorge Flores Ramírez,M,Atención al Cliente,Agente de Atención,Puebla,07/11/2020,,Activo,2020,10900,5.9
+108,Camila Rivera Hernández,F,Ventas,Ejecutivo de Ventas,Querétaro,20/02/2025,,Activo,2025,16700,1.6
+109,Fernanda Martínez Reyes,F,Ventas,Coordinador Comercial,Tlaxcala,30/01/2023,,Activo,2023,25600,3.7
+110,Fernanda Ortiz Gómez,F,Recursos Humanos,Auxiliar de RH,Tlaxcala,20/03/2022,,Activo,2022,13200,4.5
+111,Paola Sánchez Pérez,F,Tecnología,Líder de Tecnología,Monterrey,28/04/2021,,Activo,2021,50100,5.4
+112,Raúl García Hernández,M,Operaciones,Auxiliar de Operaciones,Tlaxcala,06/01/2025,,Activo,2025,14000,1.7
+113,Paola Sánchez Hernández,F,Ventas,Ejecutivo de Ventas,Tlaxcala,24/12/2021,,Activo,2021,16900,4.8
+114,Pablo Torres González,M,Ventas,Gerente de Ventas,Guadalajara,30/04/2023,25/09/2023,Baja,2023,46600,0.4
+115,María González Ramírez,F,Operaciones,Auxiliar de Operaciones,Monterrey,17/02/2018,11/08/2021,Baja,2018,15900,3.5
+116,Pablo Reyes Morales,M,Operaciones,Gerente de Operaciones,Puebla,30/06/2018,18/12/2018,Baja,2018,41000,0.5
+117,María García Ortiz,F,Finanzas,Auxiliar Contable,Querétaro,20/08/2022,16/05/2026,Baja,2022,16200,3.7
+118,Pablo Pérez Reyes,M,Operaciones,Auxiliar de Operaciones,Querétaro,18/07/2018,,Activo,2018,14900,8.2
+119,Daniela Díaz Cruz,F,Ventas,Gerente de Ventas,Ciudad de México,20/12/2019,,Activo,2019,42400,6.8
+120,Camila Ramírez Hernández,F,Operaciones,Auxiliar de Operaciones,Tlaxcala,22/11/2022,,Activo,2022,14300,3.9
